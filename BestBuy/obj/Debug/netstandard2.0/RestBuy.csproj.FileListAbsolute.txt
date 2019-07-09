@@ -1,0 +1,9 @@
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\bin\Debug\netstandard2.0\RestBuy.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\bin\Debug\netstandard2.0\RestBuy.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\bin\Debug\netstandard2.0\RestBuy.pdb
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\BestBuy\obj\Debug\netstandard2.0\RestBuy.pdb

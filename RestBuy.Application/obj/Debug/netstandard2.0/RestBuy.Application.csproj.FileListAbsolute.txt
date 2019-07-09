@@ -1,0 +1,14 @@
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\RestBuy.Application.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\RestBuy.Application.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\RestBuy.Application.pdb
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\RestBuy.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\RestBuy.pdb
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.csproj.CopyComplete
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\obj\Debug\netstandard2.0\RestBuy.Application.pdb
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Nemanja Djordjevic\source\repos\RestBuy.Web\RestBuy.Application\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
